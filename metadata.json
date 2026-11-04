@@ -1,0 +1,6 @@
+{
+  "name": "FmPDF",
+  "description": "FmPDF Premium Document Scanner and PDF Maker with live camera capture, document filters, project management, and download/sharing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
